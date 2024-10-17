@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+ul, ol, li {
+        list-style: none;
+}
+
+.example {
+    color: #FFF;
+}
+    .example-item {
+        width: 25%;
+        height: 150px;
+    }
+    .example-item_first {
+        background-color: #FAA116;
+    }
+    .example-item_second {
+        background-color: #57C7C3;
+    }
+    .example-item_third {
+        background-color: #3B97D3;
+    }
